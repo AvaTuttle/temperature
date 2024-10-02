@@ -2,15 +2,15 @@ console.log("script");
 
 //creating string variables
 //keyword nameVariable = value;
-let myName = "Jane";
-let lastName = "doe";
+let myName = "Ava";
+let lastName = "Tuttle";
 
 console.log(myName);
 console.log(lastName);
 console.log(myName + " " +lastName);//concatenation
 
 //creating numerical variables
-let myAge = 99
+let myAge = 28
 console.log("Age: " + myAge);
 
 let myGrade = 9.5;
